@@ -140,7 +140,7 @@ def FeatureExtract(url, label):
     response, soup, linkgetrequest, response1=getrequest(url)
     fitur.append(domain)
     print("Domain ",len(fitur))
-    print("rizki")
+    print("rizki p")
     # fitur.append(response)
     print("Ini response requestnya {} dari url {}".format(response1, linkgetrequest))
     if response==1:
