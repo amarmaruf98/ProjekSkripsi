@@ -141,6 +141,7 @@ def FeatureExtract(url, label):
     fitur.append(domain)
     print("Domain ",len(fitur))
     print("amar")
+    print("rizki p")
     # fitur.append(response)
     print("Ini response requestnya {} dari url {}".format(response1, linkgetrequest))
     if response==1:
